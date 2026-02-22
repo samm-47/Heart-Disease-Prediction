@@ -2,6 +2,10 @@
 
 An end-to-end Machine Learning pipeline and web application designed to predict the likelihood of heart disease in patients based on clinical health metrics.
 
+### Project Demo:
+
+https://heart-disease-prediction-demo.streamlit.app/
+
 ### Key Results:
 * **Model Accuracy:** 96.59%
 * **Cross-Validation Score:** 96.46% (± 2.7%)
